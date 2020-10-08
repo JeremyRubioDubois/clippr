@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "445502497306",
+    "firebase_url": "https://clippr-889ff.firebaseio.com",
+    "project_id": "clippr-889ff",
+    "storage_bucket": "clippr-889ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445502497306:android:63f98e940338f4933767a3",
+        "android_client_info": {
+          "package_name": "com.example.clippr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445502497306-jer78kas5126v7fia80l2045orqdnti2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clippr",
+            "certificate_hash": "66752d47b0f046ee38ea40a4356a0bb77aeec50c"
+          }
+        },
+        {
+          "client_id": "445502497306-vh7ispos3otruie04g95ohtse0ofi3jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCmM6KiJWn0BS7jlkEd8kJ5MOKRXMoiE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445502497306-vh7ispos3otruie04g95ohtse0ofi3jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
