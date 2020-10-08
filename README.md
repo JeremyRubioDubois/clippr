@@ -1,1 +1,1 @@
-mobileapp 2
+Clippr
